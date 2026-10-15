@@ -1,6 +1,8 @@
 # CampusGo – Smart Campus Navigator 🗺️
 
-**CampusGo** is a simple web-based campus navigation project built using Python and Streamlit. It helps students explore campus locations and find their way around a campus through an easy-to-use interface.
+🚀 **Live Demo:** [Open CampusGo](https://smart-campus-navigator-8bz9fjzhwwpxyabtofjvbe.streamlit.app/)
+
+A simple web-based campus navigation project built using Python and Streamlit. It helps students explore campus locations and access navigation features through an easy-to-use interface.
 
 ## 💡 What Is CampusGo?
 
